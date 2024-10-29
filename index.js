@@ -25,4 +25,4 @@ const handleMissing = (nums,n) =>{
     return SumToN-numsTotal
 }
 
-console.log(handleMissing([3,0,1],3))
+console.log(handleMissing([3,0,1,4],4))
